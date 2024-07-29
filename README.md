@@ -3,5 +3,10 @@ This is my first Repository
 <br>
 Author - Ali hassan
 <br>
-My name is ali hassan
-i am a Cs  and ok
+Steps to commit
+
+Do changes and save files
+git add .
+git status
+git commit -m "Initial commit"
+git push  origin  main
